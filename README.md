@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/B.Tech-Electrical%20Engineering-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Edge%20AI-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20SmokeFilt%20🌿-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Built%20Fire_Volt_Green%20🌿-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ##  About Me
 I build systems that bridge the gap between the physical and digital worlds. Whether it's optimizing **Bare Metal AVR** code or training **Scikit-learn** models, I’m passionate about creating hardware that thinks.
 
-*  Currently developing **SmokeFilt** — a self-powered sustainable pollution filter.
+* Recently, developed **Fire-Volt-Green** — a self-powered sustainable prototype.
 * Deep-diving into **Data Structures & Algorithms** and **Data Science**.
 
 ---
@@ -36,7 +36,7 @@ I build systems that bridge the gap between the physical and digital worlds. Whe
 
 ## Featured Projects
 
-### **SmokeFilt** (Under Process)
+### **Fire_Volt** 
 *A sustainable approach to control air pollution caused due to stubble burning*
 - **Tech:** Heat-to-electricity conversion, ESP32, TEG modules.
 - **Impact:** Designed for agricultural vehicle integration to reduce carbon footprint.
