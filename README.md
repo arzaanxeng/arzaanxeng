@@ -75,7 +75,9 @@
 ---
 
 ##  Contribution Snake
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arzaanxeng/arzaanxeng/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
 
 > ⚙️ Enable via [Platane/snk](https://github.com/Platane/snk) GitHub Action
 
