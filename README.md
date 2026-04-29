@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+I'm+Syed+Arzaan+👋;Electrical+Engineer+%7C+Computer+Science;IoT+%26+Edge+AI+Builder;NIT+Hamirpur+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+I'm+Syed+Arzaan+👋;Electrical+Engineer+%7C+Comp+Science;IoT+%26+Edge+AI+Builder;NIT+Hamirpur+⚡" />
 </h1>
 
 <p align="center">
