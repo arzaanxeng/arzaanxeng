@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="astronaut"/>
 
@@ -39,7 +39,7 @@ goal      : Ship things that matter. Build in public.
 
 ---
 
-## 🛠️ Tech & IoT Arsenal
+##  Tech & IoT Arsenal
 
 <div align="center">
 
@@ -66,23 +66,23 @@ goal      : Ship things that matter. Build in public.
 
 ---
 
-## 🚀 Mission Logs — Projects
+##  Mission Logs — Projects
 
 <div align="center">
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🔥 **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-| 🔐 **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-| 🌫️ **SmokeFilt** *(in progress)* | ESP32 · Sensors · ML | Pollution detection + filtration. Sensor data → on-device inference. |
-| 🚀 **Cosmoshot** | C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
-| 💣 **Minesweeper + Whack-a-Mole** | C++ | Classic games from scratch — recursion, timing, logic. |
+|  **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
+|  **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
+|  **SmokeFilt** *(in progress)* | ESP32 · Sensors · ML | Pollution detection + filtration. Sensor data → on-device inference. |
+|  **Cosmoshot** | C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
+|  **Minesweeper + Whack-a-Mole** | C++ | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
