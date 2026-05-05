@@ -16,6 +16,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Fire__Volt__Green-Deployed-0d1117?style=for-the-badge&labelColor=0d1117&color=56d364" />
 
+<br/>
+
 </div>
 
 ---
@@ -42,6 +44,8 @@ goal      : Ship things that matter. Build in public.
 ##  Tech & IoT Arsenal
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60" alt="circuit"/>
 
 **Languages**
 
@@ -70,13 +74,16 @@ goal      : Ship things that matter. Build in public.
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="building projects"/>
+
+<br/><br/>
+
 | Project | Stack | What it does |
 |---|---|---|
 |  **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
 |  **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-|  **SmokeFilt** *(in progress)* | ESP32 · Sensors · ML | Pollution detection + filtration. Sensor data → on-device inference. |
-|  **Cosmoshot** | C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
-|  **Minesweeper + Whack-a-Mole** | C++ | Classic games from scratch — recursion, timing, logic. |
+|  **Cosmoshot** | Arduino . C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
+|  **Minesweeper + Whack-a-Mole** | ESP-32 . C++ | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
@@ -89,15 +96,19 @@ goal      : Ship things that matter. Build in public.
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arzaanxeng&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzaanxeng&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzaanxeng&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&langs_count=6&cache_seconds=1800" height="170"/>
 </td>
 </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com/?user=arzaanxeng&theme=tokyonight&hide_border=true&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="github commit"/>
 
 </div>
 
@@ -114,6 +125,10 @@ goal      : Ship things that matter. Build in public.
 ## 🌐 Connect
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="connect"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzaan-6411983a4)
 &nbsp;
