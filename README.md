@@ -80,10 +80,11 @@ goal      : Ship things that matter. Build in public.
 
 | Project | Stack | What it does |
 |---|---|---|
-|  **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-|  **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-|  **Cosmoshot** | Arduino . C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
-|  **Minesweeper + Whack-a-Mole** | ESP-32 . C++ | Classic games from scratch — recursion, timing, logic. |
+| ⚡ **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
+| 🔒 **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
+| 🌫️ **SmokeFilt** *(in progress)* | ESP32 · Sensors · ML | Pollution detection + filtration. Sensor data → on-device inference. |
+| 🚀 **Cosmoshot** | C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
+| 🎮 **Minesweeper + Whack-a-Mole** | C++ | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
@@ -93,20 +94,17 @@ goal      : Ship things that matter. Build in public.
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzaanxeng&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&langs_count=6&cache_seconds=1800" height="170"/>
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=arzaanxeng&theme=tokyonight&hide_border=true&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arzaanxeng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 
 <br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=arzaanxeng&theme=tokyonight&hide_border=true&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arzaanxeng&theme=tokyo-night&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" width="100%"/>
+
+<br/>
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="github commit"/>
 
