@@ -73,18 +73,14 @@ goal      : Ship things that matter. Build in public.
 ##  Mission Logs — Projects
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="building projects"/>
-
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380" alt="building projects"/>
 
 | Project | Stack | What it does |
 |---|---|---|
-| ⚡ **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-| 🔒 **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-| 🌫️ **SmokeFilt** *(in progress)* | ESP32 · Sensors · ML | Pollution detection + filtration. Sensor data → on-device inference. |
-| 🚀 **Cosmoshot** | C++ · OOP | Terminal space shooter. Deep C++ memory + OOP practice. |
-| 🎮 **Minesweeper + Whack-a-Mole** | C++ | Classic games from scratch — recursion, timing, logic. |
+|  **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
+|  **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
+|  **Cosmoshot** | C++ · OOPS . Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
+|  **Minesweeper + Whack-a-Mole** | C++ . OOPS . ESP-32 | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
