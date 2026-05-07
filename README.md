@@ -27,14 +27,12 @@
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="astronaut"/>
 
 ```yaml
-name      : Syed Arzaan
-college   : NIT Hamirpur
-branch    : Electrical Engineering
-year      : First → Second
-focus     : Edge AI · IoT · Hardware × ML
-hardware  : ESP32 · Arduino · AVR · TEG Modules
-currently : Building SmokeFilt — pollution → power
-goal      : Ship things that matter. Build in public.
+Name      : Syed Arzaan
+College   : NIT Hamirpur
+Branch    : Electrical Engineering
+Year      : First → Second
+Focus     : Edge AI · IoT · Hardware × ML . DSA
+Goal      : Ship things that matter. Build in public.
 ```
 
 <br clear="right"/>
