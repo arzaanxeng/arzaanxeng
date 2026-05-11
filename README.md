@@ -32,7 +32,7 @@ College   : NIT Hamirpur
 Branch    : Electrical Engineering
 Year      : First to Second ( In Transition )
 Focus     : Edge AI · IoT · Hardware × ML . DSA
-Goal      : Ship things that matter. Build in public.
+Goal      : Ship things that matter.
 ```
 
 <br clear="right"/>
