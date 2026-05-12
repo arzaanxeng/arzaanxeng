@@ -78,6 +78,7 @@ Goal      : Ship things that matter.
 |  **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
 |  **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
 |  **Cosmoshot** | C++ · OOPS . Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
+|  **Whack_a_Mole** | C++ . OOPS . ESP-32 | Using LED's instead of moles to whack :) |
 |  **Minesweeper + Whack-a-Mole** | C++ . OOPS . ESP-32 | Classic games from scratch — recursion, timing, logic. |
 
 </div>
