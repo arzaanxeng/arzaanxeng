@@ -131,7 +131,6 @@ Goal      : Ship things that matter.
 
 <br/>
 
-*Building at the intersection of hardware and intelligence — one commit at a time.*
 
 </div>
 
