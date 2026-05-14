@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
 
 </div>
@@ -65,6 +64,12 @@ Goal      : Ship things that matter.
 ![Proteus](https://img.shields.io/badge/Proteus-Design-1f4068?style=for-the-badge)
 
 </div>
+
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,tensorflow,sklearn,numpy,pandas,vscode,git,github,linux&theme=dark&perline=11" />
+</div>
+
 
 ---
 
