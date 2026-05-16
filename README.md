@@ -30,8 +30,8 @@ Name      : Syed Arzaan
 College   : NIT Hamirpur
 Branch    : Electrical Engineering
 Year      : First to Second ( In Transition )
-Focus     : AI . DSA and stuff!!!
-Goal      : Ship things that matter.
+Focus     : AI . DSA . ML and stuff!!!
+
 ```
 
 <br clear="right"/>
