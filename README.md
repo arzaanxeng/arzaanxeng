@@ -31,6 +31,7 @@ College   : NIT Hamirpur
 Branch    : Electrical Engineering
 Year      : First to Second ( In Transition )
 Focus     : AI . DSA . ML and stuff!!!
+Goal      : To be an actual engineer 👷
 
 ```
 
