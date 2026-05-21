@@ -16,7 +16,7 @@
 
 ---
 
-##  About Me
+## 👤 About Me
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="astronaut"/>
 
@@ -39,19 +39,19 @@ Goal      : To be an actual engineer 👷
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="55" alt="circuit"/>
 <br/><br/>
 
-** Languages**
+**⌨️ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-** ML / Data**
+**🧠 ML / Data**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-** Hardware & Embedded**
+**⚙️ Hardware & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -65,7 +65,7 @@ Goal      : To be an actual engineer 👷
 
 ---
 
-##  Mission Logs — Projects
+## 🚀 Mission Logs — Projects
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" alt="building projects"/>
@@ -73,11 +73,11 @@ Goal      : To be an actual engineer 👷
 
 | # | Project | Stack | Description |
 |---|---------|-------|-------------|
-| **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-| **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-| **Cosmoshot** | C++ · OOP · Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
-| **Whack-a-Mole** | C++ · OOP · ESP-32 | LED-based Whack-a-Mole — hardware fun meets game logic. |
-| **Minesweeper + Whack-a-Mole** | C++ · OOP · ESP-32 | Classic games from scratch — recursion, timing, logic. |
+| 🔥 | **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
+| 🔐 | **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
+| 🌌 | **Cosmoshot** | C++ · OOP · Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
+| 🎯 | **Whack-a-Mole** | C++ · OOP · ESP-32 | LED-based Whack-a-Mole — hardware fun meets game logic. |
+| 💣 | **Minesweeper + Whack-a-Mole** | C++ · OOP · ESP-32 | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
@@ -104,8 +104,13 @@ Goal      : To be an actual engineer 👷
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- Anurag Hazra Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzaanxeng&theme=tokyo-night&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&bg_color=0d1117" width="100%"/>
+
+<br/><br/>
+
+<!-- Anurag Hazra WakaTime / Extra Stats Card -->
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&custom_title=Arzaan%27s+GitHub+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="60%"/>
 
 <br/>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="github commit"/>
