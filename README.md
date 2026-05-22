@@ -16,7 +16,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="astronaut"/>
 
@@ -33,25 +33,25 @@ Goal      : To be an actual engineer 👷
 
 ---
 
-## 🛠️ Tech & IoT Arsenal
+## Tech & IoT Arsenal
 
 <div align="center">
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="55" alt="circuit"/>
 <br/><br/>
 
-**⌨️ Languages**
+** Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**🧠 ML / Data**
+** ML / Data**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**⚙️ Hardware & Embedded**
+** Hardware & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -72,12 +72,12 @@ Goal      : To be an actual engineer 👷
 <br/><br/>
 
 | # | Project | Stack | Description |
-|---|---------|-------|-------------|
-| 🔥 | **Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-| 🔐 | **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-| 🌌 | **Cosmoshot** | C++ · OOP · Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
-| 🎯 | **Whack-a-Mole** | C++ · OOP · ESP-32 | LED-based Whack-a-Mole — hardware fun meets game logic. |
-| 💣 | **Minesweeper + Whack-a-Mole** | C++ · OOP · ESP-32 | Classic games from scratch — recursion, timing, logic. |
+|------------|-------|-------------|
+|**Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
+|**IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
+|**Cosmoshot** | C++ · OOP · Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
+|**Whack-a-Mole** | C++ · OOP · ESP-32 | LED-based Whack-a-Mole — hardware fun meets game logic. |
+|**Minesweeper + Whack-a-Mole** | C++ · OOP · ESP-32 | Classic games from scratch — recursion, timing, logic. |
 
 </div>
 
