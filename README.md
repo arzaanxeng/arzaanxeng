@@ -65,19 +65,20 @@ Goal      : To be an actual engineer 👷
 
 ---
 
-## 🚀 Mission Logs — Projects
+##  Mission Logs — Projects
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" alt="building projects"/>
 <br/><br/>
+  
+##  Projects Showcase
 
-| # | Project | Stack | Description |
-|------------|-------|-------------|
-|**Fire_Volt_Green** | ESP32 · TEG Modules | Converts stubble-burning heat → electricity for agri vehicles. Real deployed hardware. |
-|**IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth for physical vaults. |
-|**Cosmoshot** | C++ · OOP · Arduino Mega | Terminal space shooter. Deep C++ memory + OOP practice. |
-|**Whack-a-Mole** | C++ · OOP · ESP-32 | LED-based Whack-a-Mole — hardware fun meets game logic. |
-|**Minesweeper + Whack-a-Mole** | C++ · OOP · ESP-32 | Classic games from scratch — recursion, timing, logic. |
+| Project | Stack | Core Engineering Impact |
+| :--- | :--- | :--- |
+| **Fire-Volt Green** | ESP32 · TEG Modules | Deployed hardware converting stubble-burning heat to electricity for agri-vehicles. |
+| **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware authentication and non-volatile storage management for physical vaults. |
+| **Cosmoshot** | C++ (OOP) · Arduino Mega | Space shooter built from scratch; deep focus on explicit memory management and OOP design patterns. |
+| **Minesweeper & Whack-a-Mole** | C++ (OOP) · ESP32 | Classic logic games implemented on bare metal featuring hardware interrupts, recursion, and tight timing loops. |
 
 </div>
 
