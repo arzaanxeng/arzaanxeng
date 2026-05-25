@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Electrical+Engineer+%7C+CS+Crossover+%F0%9F%94%8C;IoT+%26+Edge+AI+Builder+%F0%9F%A4%96;NIT+Hamirpur+%E2%9A%A1;Turning+Hardware+into+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Electrical+Engineer+%7C+CS+Crossover;IoT+%26+AI+ML+Engineer;Turning+Hardware+into+Intelligence" />
 </div>
 
 <div align="center">
