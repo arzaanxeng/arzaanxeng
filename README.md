@@ -54,18 +54,18 @@ class SyedArzaan:
 
 ---
 
-##  AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
 ### Core AI Domains
 
-| Domain | Focus Areas | Status |
-|:---|:---|:---:|
-| **Deep Learning** | CNNs, RNNs, LSTMs, Transformers | 
+| Domain | Focus Areas | 
+|:---|:---|
+| **Deep Learning** | CNNs, RNNs, LSTMs, Transformers |
 | **Generative AI** | LLMs, Prompt Engineering, RAG | 
 | **Neural Networks** | Architecture design, Backpropagation, Optimization | 
-| **ML Fundamentals** | Supervised / Unsupervised, Feature Engineering |
+| **ML Fundamentals** | Supervised / Unsupervised, Feature Engineering | 
 | **DSA** | Arrays, Trees, Graphs, DP, Sliding Window | 
 
 </div>
@@ -76,7 +76,7 @@ class SyedArzaan:
 
 <div align="center">
 
-** AI / ML Stack**
+**AI / ML Stack**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -85,19 +85,19 @@ class SyedArzaan:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-** Systems / Competitive Programming**
+**Systems / Competitive Programming**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-0d1117?style=for-the-badge&labelColor=0d1117&color=f59e0b)
 
-** Hardware & Embedded**
+**Hardware & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-005C84?style=for-the-badge&logo=microchiptech&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-Design-1f4068?style=for-the-badge)
 
-** Dev Tools**
+**Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -112,7 +112,7 @@ class SyedArzaan:
 
 ---
 
-##  Projects
+## Projects
 
 <div align="center">
 
@@ -131,23 +131,104 @@ class SyedArzaan:
 
 ##  GitHub Stats
 
+<!-- ═══════════════════════════════════════════════════════════
+     QUICK METRICS ROW
+════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arzaanxeng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-0d1117?style=for-the-badge&labelColor=0d1117&color=00D9FF&logo=openai&logoColor=00D9FF)
+&nbsp;
+![](https://img.shields.io/badge/Approach-Hardware%20%2B%20Software-0d1117?style=for-the-badge&labelColor=0d1117&color=7c3aed&logo=raspberrypi&logoColor=7c3aed)
+&nbsp;
+![](https://img.shields.io/badge/Mindset-Always%20Building-0d1117?style=for-the-badge&labelColor=0d1117&color=56d364&logo=rocket&logoColor=56d364)
 
-<br/><br/>
+</div>
+
+<br/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     CORE STATS + TOP LANGUAGES (side by side)
+════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arzaanxeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     STREAK STATS
+════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=arzaanxeng&theme=tokyonight&hide_border=true&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     DETAILED LANGUAGE BREAKDOWN (pie / donut style)
+════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+###  Language Breakdown
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arzaanxeng&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     ACTIVITY GRAPH
+════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+###  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzaanxeng&theme=tokyo-night&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&bg_color=0d1117" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB SKYLINE (annual 3D bar chart)
+════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+###  GitHub Skyline — 2025
+
+[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0d1117&color=00D9FF)](https://skyline.github.com/arzaanxeng/2025)
+
+> *An interactive 3D model of your contribution history — visit the link above to explore it.*
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     PROFILE SUMMARY CARD (all-in-one visual)
+════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+###  Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arzaanxeng&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arzaanxeng&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arzaanxeng&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arzaanxeng&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arzaanxeng&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
