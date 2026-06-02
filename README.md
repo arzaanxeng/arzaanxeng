@@ -162,30 +162,6 @@ class SyedArzaan:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     STREAK STATS
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arzaanxeng&theme=tokyonight&hide_border=true&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     DETAILED LANGUAGE BREAKDOWN (pie / donut style)
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-###  Language Breakdown
-
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arzaanxeng&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
      ACTIVITY GRAPH
 ════════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -198,41 +174,8 @@ class SyedArzaan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB SKYLINE (annual 3D bar chart)
-════════════════════════════════════════════════════════════ -->
-<div align="center">
 
-###  GitHub Skyline — 2025
 
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0d1117&color=00D9FF)](https://skyline.github.com/arzaanxeng/2025)
-
-> *An interactive 3D model of your contribution history — visit the link above to explore it.*
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     PROFILE SUMMARY CARD (all-in-one visual)
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-###  Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arzaanxeng&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arzaanxeng&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arzaanxeng&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arzaanxeng&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arzaanxeng&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
