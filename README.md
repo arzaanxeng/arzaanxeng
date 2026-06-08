@@ -34,20 +34,21 @@ class SyedArzaan:
         self.name        = "Syed Arzaan"
         self.college     = "NIT Hamirpur"
         self.branch      = "Electrical Engineering → AI/ML"
-        self.year        = "1st → 2nd (In Transition)"
+        self.year        = "2nd Year"
+        self.cgpa        = 9.00
 
     @property
     def current_focus(self):
         return [
             "Neural Networks & Deep Learning",
             "Generative AI (LLMs, Diffusion Models)",
-            "Data Structures & Algorithms",
+            "Data Structures & Algorithms in C++",
             "IoT + Edge AI",
         ]
 
     @property
     def goal(self):
-        return "Build intelligent systems that bridge hardware & AI "
+        return "Build intelligent systems that bridge hardware & AI"
 ```
 
 <br clear="right"/>
@@ -58,55 +59,45 @@ class SyedArzaan:
 
 <div align="center">
 
-### Core AI Domains
-
-| Domain | Focus Areas | 
+| Domain | Focus Areas |
 |:---|:---|
 | **Deep Learning** | CNNs, RNNs, LSTMs, Transformers |
-| **Generative AI** | LLMs, Prompt Engineering, RAG | 
-| **Neural Networks** | Architecture design, Backpropagation, Optimization | 
-| **ML Fundamentals** | Supervised / Unsupervised, Feature Engineering | 
-| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window | 
+| **Generative AI** | LLMs, Prompt Engineering, RAG |
+| **Neural Networks** | Architecture design, Backpropagation, Optimization |
+| **ML Fundamentals** | Supervised / Unsupervised, Feature Engineering |
+| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window |
 
 </div>
 
 ---
 
-##  Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-**AI / ML Stack**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**— AI / ML / Data Science —**
 
-**Systems / Competitive Programming**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark&perline=6" />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-0d1117?style=for-the-badge&labelColor=0d1117&color=f59e0b)
+<br/>
 
-**Hardware & Embedded**
+**— Systems & Hardware —**
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,raspberrypi&theme=dark&perline=6" />
+
+<br/>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-005C84?style=for-the-badge&logo=microchiptech&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-Design-1f4068?style=for-the-badge)
 
-**Dev Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**— Dev Tools —**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,numpy,pandas,arduino,vscode,git,github,linux&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter,anaconda&theme=dark&perline=6" />
 
 </div>
 
@@ -118,66 +109,39 @@ class SyedArzaan:
 
 | Project | Stack | Impact |
 |:---|:---|:---|
-| **Fire-Volt Green** | ESP32 · TEG Modules | Deployed hardware converting stubble-burning heat → electricity for agri-vehicles |
+| **Heart Disease Predictor** | Python · Sklearn · Streamlit | Multi-model ML pipeline with live deployment — [Demo](https://your-link-here) |
+| **Fire-Volt Green** | ESP32 · TEG Modules | Hardware converting stubble-burning heat → electricity for agri-vehicles |
 | **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth with non-volatile storage for physical vaults |
-| **Cosmoshot** | C++ (OOP) · Arduino Mega | Space shooter from scratch — deep focus on memory management & OOP patterns |
-| **Minesweeper & Whack-a-Mole** | C++ (OOP) · ESP32 | Classic logic games on bare metal — hardware interrupts, recursion & tight timing loops |
+| **Cosmoshot** | C++ (OOP) · Arduino Mega | Space shooter from scratch — memory management & deep OOP patterns |
+| **Whack-a-Mole / Minesweeper** | C++ · ESP32 | Classic logic games on bare metal — hardware interrupts, recursion & tight timing |
 
 </div>
 
->  **Currently learning:** Deep learning projects, Gen AI experiments, and DSA grind — more coming soon.
+> **In Progress:** VisionGuard Smart Cane (ultrasonic + haptic + GPS/GSM), Neural Network from Scratch (NumPy), C++ Fraction Library.
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-<!-- ═══════════════════════════════════════════════════════════
-     QUICK METRICS ROW
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-0d1117?style=for-the-badge&labelColor=0d1117&color=00D9FF&logo=openai&logoColor=00D9FF)
-&nbsp;
-![](https://img.shields.io/badge/Approach-Hardware%20%2B%20Software-0d1117?style=for-the-badge&labelColor=0d1117&color=7c3aed&logo=raspberrypi&logoColor=7c3aed)
-&nbsp;
-![](https://img.shields.io/badge/Mindset-Always%20Building-0d1117?style=for-the-badge&labelColor=0d1117&color=56d364&logo=rocket&logoColor=56d364)
-
-</div>
-
-<br/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     CORE STATS + TOP LANGUAGES (side by side)
-════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arzaanxeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arzaanxeng&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
-════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-###  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzaanxeng&theme=tokyo-night&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&bg_color=0d1117" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-
-
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arzaanxeng/arzaanxeng/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
@@ -185,7 +149,7 @@ class SyedArzaan:
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
