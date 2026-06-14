@@ -109,15 +109,12 @@ class SyedArzaan:
 
 | Project | Stack | Impact |
 |:---|:---|:---|
-| **Heart Disease Predictor** | Python · Sklearn · Streamlit | Multi-model ML pipeline with live deployment — [Demo](https://your-link-here) |
 | **Fire-Volt Green** | ESP32 · TEG Modules | Hardware converting stubble-burning heat → electricity for agri-vehicles |
 | **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth with non-volatile storage for physical vaults |
 | **Cosmoshot** | C++ (OOP) · Arduino Mega | Space shooter from scratch — memory management & deep OOP patterns |
 | **Whack-a-Mole / Minesweeper** | C++ · ESP32 | Classic logic games on bare metal — hardware interrupts, recursion & tight timing |
 
 </div>
-
-> **In Progress:** VisionGuard Smart Cane (ultrasonic + haptic + GPS/GSM), Neural Network from Scratch (NumPy), C++ Fraction Library.
 
 ---
 
