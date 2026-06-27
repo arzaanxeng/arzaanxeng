@@ -43,7 +43,7 @@ class SyedArzaan:
             "Neural Networks & Deep Learning",
             "Generative AI (LLMs, Diffusion Models)",
             "Data Structures & Algorithms in C++",
-            "IoT + Edge AI",
+            "IoT + Edge AI"
         ]
 
     @property
@@ -103,21 +103,6 @@ class SyedArzaan:
 
 ---
 
-## Projects
-
-<div align="center">
-
-| Project | Stack | Impact |
-|:---|:---|:---|
-| **Fire-Volt Green** | ESP32 · TEG Modules | Hardware converting stubble-burning heat → electricity for agri-vehicles |
-| **IoT Security System** | Arduino · EEPROM · Keypad | Multi-layer hardware auth with non-volatile storage for physical vaults |
-| **Cosmoshot** | C++ (OOP) · Arduino Mega | Space shooter from scratch — memory management & deep OOP patterns |
-| **Whack-a-Mole / Minesweeper** | C++ · ESP32 | Classic logic games on bare metal — hardware interrupts, recursion & tight timing |
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -159,8 +144,6 @@ class SyedArzaan:
 ![Profile Views](https://komarev.com/ghpvc/?username=arzaanxeng&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
-
-> *"The best way to predict the future is to build it — one model at a time."*
 
 <br/>
 
