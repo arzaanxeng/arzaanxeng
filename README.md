@@ -26,20 +26,22 @@
 
 ## `whoami`
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="210" alt="astronaut"/>
-
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/8ab918ab-15df-4148-bcd3-5e86c3771896.gif"
+    width="45%" align = "right" alt="pixel-art-readme-gifs">
+    
 ```python
 class SyedArzaan:
     def __init__(self):
         self.name        = "Syed Arzaan"
         self.college     = "NIT Hamirpur"
-        self.branch      = "Electrical Engineering → AI/ML"
+        self.branch      = "Electrical Engineering"
         self.year        = "2nd Year"
         self.cgpa        = 9.00
 
     @property
     def current_focus(self):
         return [
+            "Machine Learning",
             "Neural Networks & Deep Learning",
             "Generative AI (LLMs, Diffusion Models)",
             "Data Structures & Algorithms in C++",
@@ -48,7 +50,9 @@ class SyedArzaan:
 
     @property
     def goal(self):
-        return "Build intelligent systems that bridge hardware & AI"
+        return "Build intelligent systems that
+        bridge hardware & AI"
+
 ```
 
 <br clear="right"/>
