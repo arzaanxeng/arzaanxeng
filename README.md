@@ -87,6 +87,12 @@ class SyedArzaan:
 
 <br/>
 
+**— Web & Backend —**
+
+<img src="https://skillicons.dev/icons?i=html,css,fastapi,docker&theme=dark&perline=6" />
+
+<br/>
+
 **— Systems & Hardware —**
 
 <img src="https://skillicons.dev/icons?i=cpp,arduino,linux,raspberrypi&theme=dark&perline=6" />
@@ -97,6 +103,7 @@ class SyedArzaan:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-005C84?style=for-the-badge&logo=microchiptech&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-Design-1f4068?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 **— Dev Tools —**
