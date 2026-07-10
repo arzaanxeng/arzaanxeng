@@ -152,7 +152,3 @@ class SyedArzaan:
 <br/>
 
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,60:00D9FF,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
