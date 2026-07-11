@@ -75,45 +75,68 @@ class SyedArzaan:
 </div>
 
 ---
+### 💻 Technology Stack
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/>
+  &nbsp;
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="60"/>
+  &nbsp;
+  <!-- Arduino -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60"/>
+  &nbsp;
+ 
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="60"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="60"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="60"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Firebase" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="60"/>
+  &nbsp;
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="60"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="Linux" width="60"/>
+  &nbsp;
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/plotly" alt="Plotly" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60"/>
+  &nbsp;
+   <!-- KiCad -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="60"/>
+  &nbsp;
+</p>
 
-## Tech Arsenal
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<div align="center">
-
-<br/>
-
-**— AI / ML / Data Science —**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark&perline=6" />
-
-<br/>
-
-**— Web & Backend —**
-
-<img src="https://skillicons.dev/icons?i=html,css,fastapi,docker&theme=dark&perline=6" />
-
-<br/>
-
-**— Systems & Hardware —**
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,raspberrypi&theme=dark&perline=6" />
-
-<br/>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-005C84?style=for-the-badge&logo=microchiptech&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Design-1f4068?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-**— Dev Tools —**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter,anaconda&theme=dark&perline=6" />
-
-</div>
-
----
 
 ## GitHub Stats
 
