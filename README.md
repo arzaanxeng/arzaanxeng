@@ -26,9 +26,10 @@
 
 ## `whoami`
 
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/8ab918ab-15df-4148-bcd3-5e86c3771896.gif"
-    width="45%" align = "right" alt="pixel-art-readme-gifs">
-    
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ```python
 class SyedArzaan:
     def __init__(self):
@@ -50,12 +51,22 @@ class SyedArzaan:
 
     @property
     def goal(self):
-        return "Build intelligent systems that
-        bridge hardware & AI"
-
+        return ("Build intelligent systems that "
+                "bridge hardware & AI")
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/8ab918ab-15df-4148-bcd3-5e86c3771896.gif" width="100%" alt="pixel-art-readme-gifs">
+
+<br/><br/>
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -140,11 +151,7 @@ class SyedArzaan:
 ## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF"/>
-&nbsp;
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arzaanxeng&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117"/>
-
 </div>
 
 ---
