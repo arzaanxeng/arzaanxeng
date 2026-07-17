@@ -70,20 +70,17 @@ class SyedArzaan:
 
 ---
 
-## AI / ML / IoT Expertise
-
-<div align="center">
-
-| Domain | Focus Areas |
-|:---|:---|
-| **Deep Learning** | CNNs, RNNs, LSTMs, Transformers |
-| **Generative AI** | LLMs, Prompt Engineering, RAG |
-| **Neural Networks** | Architecture design, Backpropagation, Optimization |
-| **ML Fundamentals** | Supervised / Unsupervised, Feature Engineering |
-| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window |
-| **Hardware & Embedded Systems** | ESP32, Arduino, IoT, Sensor Integration, Edge Deployment |
-
-</div>
+## Featured Projects
+ 
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[VisionGuard Smart Cane](https://github.com/arzaanxeng)** | Assistive device with dual ultrasonic obstacle detection, moisture sensing, and GPS/GSM SOS via hardware interrupts | ESP32, C++, Embedded Systems |
+| **[CineMatch](https://github.com/arzaanxeng)** | Movie recommendation system using content-based filtering, deployed as a full-stack app | TF-IDF, Cosine Similarity, FastAPI, Docker, Railway |
+| **[Laptop Price Predictor](https://github.com/arzaanxeng)** | Regression model comparing 4 algorithms to predict laptop prices (R² = 0.871) | Random Forest, Scikit-learn, Streamlit |
+| **[Olympics Analysis Dashboard](https://github.com/arzaanxeng)** | Interactive dashboard exploring 120 years of Olympic history | Pandas, Plotly, Streamlit |
+| **[Heart Disease Predictor](https://github.com/arzaanxeng)** | Classification model for heart disease risk prediction | Scikit-learn, Streamlit |
+ 
+*More on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
 
 ---
 ###  Technology Stack
