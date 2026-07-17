@@ -143,13 +143,6 @@ class SyedArzaan:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-
-## GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arzaanxeng&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117"/>
-</div>
-
 ---
 
 ## Contribution Snake
