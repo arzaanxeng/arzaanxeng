@@ -74,11 +74,10 @@ class SyedArzaan:
  
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[VisionGuard Smart Cane](https://github.com/arzaanxeng)** | Assistive device with dual ultrasonic obstacle detection, moisture sensing, and GPS/GSM SOS via hardware interrupts | ESP32, C++, Embedded Systems |
-| **[CineMatch](https://github.com/arzaanxeng)** | Movie recommendation system using content-based filtering, deployed as a full-stack app | TF-IDF, Cosine Similarity, FastAPI, Docker, Railway |
-| **[Laptop Price Predictor](https://github.com/arzaanxeng)** | Regression model comparing 4 algorithms to predict laptop prices (R² = 0.871) | Random Forest, Scikit-learn, Streamlit |
-| **[Olympics Analysis Dashboard](https://github.com/arzaanxeng)** | Interactive dashboard exploring 120 years of Olympic history | Pandas, Plotly, Streamlit |
-| **[Heart Disease Predictor](https://github.com/arzaanxeng)** | Classification model for heart disease risk prediction | Scikit-learn, Streamlit |
+| **[CineMatch](https://movierecommendationsystem-production-61c8.up.railway.app)** | Movie recommendation system using content-based filtering, deployed as a full-stack app | TF-IDF, Cosine Similarity, FastAPI, Docker, Railway |
+| **[Laptop Price Predictor](https://machinelearningprojects-laptoppricepredictor786.streamlit.app)** | Regression model comparing 4 algorithms to predict laptop prices (R² = 0.871) | Random Forest, Scikit-learn, Streamlit |
+| **[Olympics Analysis Dashboard](https://machinelearningprojects-olympics-dashboard.streamlit.app/)** | Interactive dashboard exploring 120 years of Olympic history | Pandas, Plotly, Streamlit |
+| **[Fire Volt Green](https://github.com/arzaanxeng/Fire_Volt_Green.git)** | An IoT-enabled self-sustaining vehicle that converts crop stubble into electricity | Scikit-learn, Streamlit , TEGs , ESP-32 , Boost Converter |
  
 *More on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
 
