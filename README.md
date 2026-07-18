@@ -93,9 +93,6 @@ class SyedArzaan:
   &nbsp;
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="60"/>
   &nbsp;
-  <!-- Arduino -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60"/>
-  &nbsp;
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="60"/>
   &nbsp;
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="60"/>
@@ -137,6 +134,9 @@ class SyedArzaan:
    <!-- KiCad -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="60"/>
   &nbsp;
+  <!-- Arduino -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60"/>
+  &nbsp;
 </p>
 
 <p align="center">
@@ -160,7 +160,8 @@ class SyedArzaan:
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arzaanxeng)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=arzaanxeng&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arzaanxeng.github.io-pink?style=flat-square)](https://arzaanxeng.github.io/)
+&nbsp;
 
 <br/><br/>
 
