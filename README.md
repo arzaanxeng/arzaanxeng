@@ -1,30 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,60:00D9FF,100:0d1117&height=140&section=header&animation=fadeIn&text=Syed%20Arzaan&fontColor=00D9FF&fontSize=42&fontAlignY=65" width="100%"/>
-</div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=Aspiring+AI+Engineer+%7C+EE+%40+NIT+Hamirpur;Neural+Networks+%7C+Deep+Learning+%7C+Gen+AI;DSA+Practitioner+%7C+Competitive+Programmer;IoT+%26+Edge+AI+%7C+Hardware+%2B+Intelligence;Building+Tomorrow's+Intelligent+Systems+Today" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![AI Engineer](https://img.shields.io/badge/Aspiring-AI%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=00D9FF)
-&nbsp;
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=7c3aed)
-&nbsp;
-![Gen AI](https://img.shields.io/badge/Generative-AI-0d1117?style=for-the-badge&labelColor=0d1117&color=ec4899)
-&nbsp;
-![DSA](https://img.shields.io/badge/DSA-Practitioner-0d1117?style=for-the-badge&labelColor=0d1117&color=f59e0b)
-&nbsp;
-![NIT Hamirpur](https://img.shields.io/badge/NIT-Hamirpur-0d1117?style=for-the-badge&labelColor=0d1117&color=56d364)
-
-</div>
-
----
-
-## `whoami`
+# `whoami`
 
 <table>
 <tr>
