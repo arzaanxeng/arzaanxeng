@@ -1,123 +1,62 @@
+# Syed Arzaan
 
+**AI/ML Engineer in the making.** Learning, building, and shipping.
 
-# `whoami`
+&nbsp;&nbsp;&nbsp;[Portfolio](https://arzaanxeng.github.io/) · [LinkedIn](https://www.linkedin.com/in/arzaan-6411983a4) · [GitHub](https://github.com/arzaanxeng)
 
-<table>
-<tr>
-<td width="60%" valign="top">
+---
 
-```python
-class SyedArzaan:
-    def __init__(self):
-        self.name        = "Syed Arzaan"
-        self.college     = "NIT Hamirpur"
-        self.branch      = "Electrical Engineering"
-        self.year        = "2nd Year"
-        self.cgpa        = 9.00
+I build systems at the intersection of **machine learning and hardware** — from deployed ML web apps to IoT systems with on-device inference.
 
-    @property
-    def current_focus(self):
-        return [
-            "Machine Learning",
-            "Neural Networks & Deep Learning",
-            "Generative AI (LLMs, Diffusion Models)",
-            "Data Structures & Algorithms in C++",
-            "IoT + Edge AI"
-        ]
-
-    @property
-    def goal(self):
-        return ("Build intelligent systems that "
-                "bridge hardware & AI")
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/8ab918ab-15df-4148-bcd3-5e86c3771896.gif" width="100%" alt="pixel-art-readme-gifs">
-
-<br/><br/>
-
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" width="100%"/>
-
-</td>
-</tr>
-</table>
-
+- B.Tech Electrical Engineering · NIT Hamirpur · 9.00 CGPA
+- Cleared JEE Advanced · 2nd place Integration Bee @ NIT Hamirpur
+- Currently deep in Deep Learning and Gen-AI
+- Building toward research internships in Edge AI / TinyML
 
 ---
 
 ## Featured Projects
- 
+
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[CineMatch](https://movierecommendationsystem-production-61c8.up.railway.app)** | Movie recommendation system using content-based filtering, deployed as a full-stack app | TF-IDF, Cosine Similarity, FastAPI, Docker, Railway |
-| **[Laptop Price Predictor](https://machinelearningprojects-laptoppricepredictor786.streamlit.app)** | Regression model comparing 4 algorithms to predict laptop prices (R² = 0.871) | Random Forest, Scikit-learn, Streamlit |
-| **[Olympics Analysis Dashboard](https://machinelearningprojects-olympics-dashboard.streamlit.app/)** | Interactive dashboard exploring 120 years of Olympic history | Pandas, Plotly, Streamlit |
-| **[Fire Volt Green](https://github.com/arzaanxeng/Fire_Volt_Green.git)** | An IoT-enabled self-sustaining vehicle that converts crop stubble into electricity | Scikit-learn, Streamlit , TEGs , ESP-32 , Boost Converter |
- 
-*More on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
+| **[CineMatch](https://movierecommendationsystem-production-61c8.up.railway.app)** | Content-based movie recommender — Dockerized, deployed as full-stack app | TF-IDF · Cosine Similarity · FastAPI · Docker · Railway |
+| **[Laptop Price Predictor](https://machinelearningprojects-laptoppricepredictor786.streamlit.app)** | Regression model comparing 4 algorithms · R² = 0.871 | Random Forest · Scikit-learn · Streamlit |
+| **[Olympics Analysis Dashboard](https://machinelearningprojects-olympics-olympics-dashboard.streamlit.app/)** | Interactive dashboard across 120 years of Olympic history | Pandas · Plotly · Streamlit |
+| **[Fire Volt Green](https://github.com/arzaanxeng/Fire_Volt_Green)** | IoT vehicle converting crop stubble to electricity via TEGs + adaptive MPPT | ESP32 · Scikit-learn · Boost Converter |
+
+*Full list on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
 
 ---
-###  Technology Stack
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/>
-  &nbsp;
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="60"/>
-  &nbsp;
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="60"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="60"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="60"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Firebase" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="60"/>
-  &nbsp;
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="60"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="Linux" width="60"/>
-  &nbsp;
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/plotly" alt="Plotly" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60"/>
-  &nbsp;
-   <!-- KiCad -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="60"/>
-  &nbsp;
-  <!-- Arduino -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60"/>
-  &nbsp;
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**ML / AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Deployment / Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Hardware**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arzaanxeng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" width="48%"/>
 
 ---
 
@@ -125,20 +64,4 @@ class SyedArzaan:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arzaanxeng/arzaanxeng/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
-
----
-
-## Let's Connect
-<div align = "center" >
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzaan-6411983a4)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arzaanxeng)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-arzaanxeng.github.io-pink?style=flat-square)](https://arzaanxeng.github.io/)
-&nbsp;
-
-<br/><br/>
-
 </div>
