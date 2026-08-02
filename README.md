@@ -1,6 +1,8 @@
 # Syed Arzaan
-**AI/ML Engineer in the making.** Learning, building, and shipping.
+**AI/ML Engineer in the making.** 
+Learning, building, and shipping.
 &nbsp;&nbsp;&nbsp;[Portfolio](https://arzaanxeng.github.io/) · [LinkedIn](https://www.linkedin.com/in/arzaan-6411983a4) · [GitHub](https://github.com/arzaanxeng)
+
 ---
 I build systems at the intersection of **machine learning and hardware** — from deployed ML web apps to IoT systems with on-device inference.
 - B.Tech Electrical Engineering · NIT Hamirpur · 9.00 CGPA
