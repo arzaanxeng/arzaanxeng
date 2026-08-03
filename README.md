@@ -14,10 +14,10 @@ I build systems at the intersection of **machine learning and hardware** — fro
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[Neural Network from Scratch](https://github.com/arzaanxeng/Deep_Learning)** | Forward prop, backprop & gradient descent implemented from first principles using only NumPy — no PyTorch/TensorFlow/Keras — verified on the XOR problem | NumPy · Python · Matplotlib |
+| **[Neural Network from Scratch](https://github.com/arzaanxeng/Deep_Learning/tree/main/Numpy_Neural_Network)** | Forward prop, backprop & gradient descent implemented from first principles using only NumPy — no PyTorch/TensorFlow/Keras — verified on the XOR problem | NumPy · Python · Matplotlib |
 | **[CineMatch](https://movierecommendationsystem-production-61c8.up.railway.app)** | Content-based movie recommender — Dockerized, deployed as full-stack app | TF-IDF · Cosine Similarity · FastAPI · Docker · Railway |
 | **[Laptop Price Predictor](https://machinelearningprojects-laptoppricepredictor786.streamlit.app)** | Regression model comparing 4 algorithms · R² = 0.871 | Random Forest · Scikit-learn · Streamlit |
-| **[Olympics Analysis Dashboard](https://machinelearningprojects-olympics-olympics-dashboard.streamlit.app/)** | Interactive dashboard across 120 years of Olympic history | Pandas · Plotly · Streamlit |
+| **[Olympics Analysis Dashboard](https://machinelearningprojects-olympics-dashboard.streamlit.app/)** | Interactive dashboard across 120 years of Olympic history | Pandas · Plotly · Streamlit |
 | **[Fire-Volt Green](https://github.com/arzaanxeng/Fire_Volt_Green)** | IoT vehicle converting crop stubble to electricity via 12–16 TEG modules — 3rd place overall, NIMBUS 2026 | ESP32 · TEG · Python · IoT |
 
 *Full list on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
