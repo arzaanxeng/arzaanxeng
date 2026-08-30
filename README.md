@@ -1,6 +1,6 @@
 # Syed Arzaan
 
-**AI/ML Engineer in the making.** Building at the intersection of machine learning and hardware.
+**AI/ML Engineer in the making.** 
 
 [Portfolio](https://arzaanxeng.github.io/) · [LinkedIn](https://www.linkedin.com/in/arzaan-6411983a4) · [GitHub](https://github.com/arzaanxeng)
 
@@ -11,29 +11,16 @@ B.Tech Electrical Engineering · NIT Hamirpur · 9.00 CGPA. I build ML systems a
 - Built a neural network from first principles in raw NumPy — forward/backward pass, gradient descent, verified on XOR
 - Deployed **CineMatch**, a content-based recommender (TF-IDF + cosine similarity), Dockerized and live on Railway
 - Built **Fire-Volt Green**, an ESP32 + TEG-based IoT vehicle converting crop stubble to electricity — 3rd place, NIMBUS 2026
-- Cleared JEE Advanced · 2nd place, Integration Bee @ NIT Hamirpur
-
-Currently deep in deep learning and Gen-AI.
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [Neural Network from Scratch](https://github.com/arzaanxeng/Deep_Learning/tree/main/Numpy_Neural_Network) | Forward prop, backprop & gradient descent from first principles — no PyTorch/TensorFlow — verified on XOR | NumPy · Python |
-| [Fire-Volt Green](https://github.com/arzaanxeng/Fire_Volt_Green) | IoT vehicle converting crop stubble to electricity via 12–16 TEG modules — 3rd place, NIMBUS 2026 | ESP32 · TEG · Python |
-| [CineMatch](https://movierecommendationsystem-production-61c8.up.railway.app) | Content-based movie recommender, Dockerized full-stack app | TF-IDF · FastAPI · Docker · Railway |
-| [Laptop Price Predictor](https://machinelearningprojects-laptoppricepredictor786.streamlit.app) | Regression model comparing 4 algorithms · R² = 0.871 | Random Forest · Scikit-learn · Streamlit |
-| [Olympics Analysis Dashboard](https://machinelearningprojects-olympics-dashboard.streamlit.app/) | Interactive dashboard across 120 years of Olympic history | Pandas · Plotly · Streamlit |
-
-*Full list on my [GitHub](https://github.com/arzaanxeng) and [portfolio](https://arzaanxeng.github.io/).*
+- Cleared JEE Advanced (top ~1.3% of ~1.5 million aspirants) · 2nd place, Integration Bee @ NIT Hamirpur
+  
+Currently deep in deep learning and GEN AI.
 
 ---
+
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white) 
 
 ---
 
