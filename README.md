@@ -20,7 +20,6 @@
 ---
 
 ## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arzaanxeng/arzaanxeng/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arzaanxeng/arzaanxeng/output/koi-contribution.svg" alt="Koi swimming over my contribution graph" />
+</p>
