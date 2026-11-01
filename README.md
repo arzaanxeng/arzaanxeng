@@ -1,6 +1,7 @@
 # Syed Arzaan
 
 **AI/ML Engineer in the making.**
+- I love making stuff !!!
 
 [Portfolio](https://arzaanxeng.github.io/) · [LinkedIn](https://www.linkedin.com/in/arzaan-6411983a4) · [GitHub](https://github.com/arzaanxeng)
 
