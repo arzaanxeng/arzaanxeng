@@ -18,7 +18,7 @@ query($login:String!){
 LEVELS = {"NONE":0,"FIRST_QUARTILE":1,"SECOND_QUARTILE":2,"THIRD_QUARTILE":3,"FOURTH_QUARTILE":4}
 
 # ---- glow settings (the only new part) ----
-GLOW_COLOR = "#ff9a3c"   # color the blocks turn when the koi swims near
+GLOW_COLOR = "#5ce1ff"   # color the blocks turn when the koi swims near (soft aqua)
 GLOW_RADIUS = 42         # how far (pixels) the glow reaches around the koi
 FADE_SPEED = 0.93        # closer to 1 = glow fades back slower
 
@@ -79,7 +79,7 @@ def glow_layer(centers, dur):
     N = 240
     head = [point_at(pts,cum,k/N) for k in range(N)]
     rects=[]
-    for (x,y,cx,cy) in centers:
+    for (x,y,cx,cy,lvl) in centers:
         prox=[]
         for hx,hy in head:
             d=((hx-cx)**2+(hy-cy)**2)**.5
@@ -93,9 +93,15 @@ def glow_layer(centers, dur):
                 o[k]=prev
         keep=rdp([(k/N, o[k]) for k in range(N)] + [(1.0, o[0])], 0.03)
         times=";".join(f"{t:.4f}" for t,_ in keep)
-        vals=";".join(f"{v*0.9:.2f}" for _,v in keep)
+        vals=";".join(f"{v*0.7:.2f}" for _,v in keep)
         rects.append(f'<rect x="{x}" y="{y}" width="10" height="10" rx="2" fill="{GLOW_COLOR}" opacity="0">'
                      f'<animate attributeName="opacity" values="{vals}" keyTimes="{times}" dur="{dur}s" repeatCount="indefinite"/></rect>')
+        if lvl == 4:                            # busiest days sparkle as the koi passes
+            sp=rdp([(k/N, prox[k]**3) for k in range(N)] + [(1.0, prox[0]**3)], 0.05)
+            st=";".join(f"{t:.4f}" for t,_ in sp)
+            sv=";".join(f"{v:.2f}" for _,v in sp)
+            rects.append(f'<path transform="translate({cx} {cy})" d="M0,-6 L1.4,-1.4 L6,0 L1.4,1.4 L0,6 L-1.4,1.4 L-6,0 L-1.4,-1.4Z" fill="#ffffff" opacity="0">'
+                         f'<animate attributeName="opacity" values="{sv}" keyTimes="{st}" dur="{dur}s" repeatCount="indefinite"/></path>')
     return "\n".join(rects)
 
 def build(weeks):
@@ -106,29 +112,31 @@ def build(weeks):
     for c,week in enumerate(weeks):
         for r,lvl in enumerate(week):
             cells.append(f'<rect x="{x0+c*pitch}" y="{y0+r*pitch}" width="10" height="10" rx="2" fill="{cols[lvl]}"/>')
-            centers.append((x0+c*pitch, y0+r*pitch, x0+c*pitch+5, y0+r*pitch+5))
+            centers.append((x0+c*pitch, y0+r*pitch, x0+c*pitch+5, y0+r*pitch+5, lvl))
 
     PATH="M90,75 C90,30 250,25 380,65 C510,105 670,120 670,75 C670,30 520,25 380,85 C240,145 90,120 90,75 Z"
     DUR=24; STEP=0.2
     radii=[7,7.6,7.2,6.4,5.5,4.6,3.7,2.9,2.1]
-    colors=["#ff7a1a","#fff4e6","#ff7a1a","#e53935","#ff7a1a","#fff4e6","#ff7a1a","#ff9a3c","#ffb066"]
+    colors=["#1e88e5","#e8f4ff","#1e88e5","#0d47a1","#1e88e5","#e8f4ff","#1e88e5","#42a5f5","#81d4fa"]
     def motion(i):
         b = 0 if i==0 else -(DUR-i*STEP)
         return f'<animateMotion dur="{DUR}s" begin="{b:.2f}s" repeatCount="indefinite" rotate="auto" path="{PATH}"/>'
     n=len(radii)-1
-    parts=[f'''<g>{motion(n)}<g><path d="M0,0 C-8,-6 -14,-9 -22,-10 C-17,0 -17,0 -22,10 C-14,9 -8,6 0,0Z" fill="#ffb066" opacity=".85"/><animateTransform attributeName="transform" type="rotate" values="-14;14;-14" dur="0.9s" repeatCount="indefinite"/></g></g>''']
+    parts=[f'''<g>{motion(n)}<g><path d="M0,0 C-8,-6 -14,-9 -22,-10 C-17,0 -17,0 -22,10 C-14,9 -8,6 0,0Z" fill="#81d4fa" opacity=".85"/><animateTransform attributeName="transform" type="rotate" values="-14;14;-14" dur="0.9s" repeatCount="indefinite"/></g></g>''']
     for i in range(n,0,-1):
         extra=""
         if i==2:
-            extra='''<ellipse cx="-2" cy="-8" rx="6" ry="2.5" fill="#ffb066" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="-15 0 -6;15 0 -6;-15 0 -6" dur="1.6s" repeatCount="indefinite"/></ellipse><ellipse cx="-2" cy="8" rx="6" ry="2.5" fill="#ffb066" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="15 0 6;-15 0 6;15 0 6" dur="1.6s" repeatCount="indefinite"/></ellipse>'''
+            extra='''<ellipse cx="-2" cy="-8" rx="6" ry="2.5" fill="#81d4fa" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="-15 0 -6;15 0 -6;-15 0 -6" dur="1.6s" repeatCount="indefinite"/></ellipse><ellipse cx="-2" cy="8" rx="6" ry="2.5" fill="#81d4fa" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="15 0 6;-15 0 6;15 0 6" dur="1.6s" repeatCount="indefinite"/></ellipse>'''
         parts.append(f'<g>{motion(i)}{extra}<circle r="{radii[i]}" fill="{colors[i]}"/></g>')
-    parts.append(f'''<g>{motion(0)}<ellipse rx="10" ry="6.5" fill="#ff7a1a"/><ellipse cx="-1" rx="4" ry="3" fill="#e53935"/><circle cx="5" cy="-3.2" r="1.3" fill="#111"/><circle cx="5" cy="3.2" r="1.3" fill="#111"/></g>''')
+    parts.append(f'''<g>{motion(0)}<ellipse rx="10" ry="6.5" fill="#1e88e5"/><ellipse cx="-1" rx="4" ry="3" fill="#0d47a1"/><circle cx="5" cy="-3.2" r="1.3" fill="#111"/><circle cx="5" cy="3.2" r="1.3" fill="#111"/></g>''')
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
 <title>Koi swimming over {USER}'s contribution graph</title>
-<defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0d1b2e"/></linearGradient></defs>
+<defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0d1b2e"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#7df0ff" stop-opacity=".28"/><stop offset="1" stop-color="#7df0ff" stop-opacity="0"/></radialGradient></defs>
 <rect width="{W}" height="{H}" rx="12" fill="url(#w)"/>
 {chr(10).join(cells)}
 {glow_layer(centers, DUR)}
+<circle r="34" fill="url(#halo)">{motion(0)}</circle>
 {chr(10).join(parts)}
 </svg>'''
 
